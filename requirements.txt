@@ -1,0 +1,12 @@
+Django
+ipython
+ipywidgets
+matplotlib
+numpy
+pandas
+plotly
+PyMySQL
+requests
+seaborn
+tabulate
+django-cors-headers
