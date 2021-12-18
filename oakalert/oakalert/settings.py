@@ -26,7 +26,13 @@ SECRET_KEY = 'django-insecure-l^lxb^qrhhjmvd0u8zs38d6vtx%yg*bb+an(2wp_*w3z#&49z0
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-
+CORS_ALLOWED_ORIGINS = [
+    "https://oak-alerts.com",
+    "http://oak-alerts.com",
+    "https://www.oak-alerts.com",
+    "http://www.oak-alerts.com",
+    
+]
 
 # Application definition
 
